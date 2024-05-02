@@ -1,0 +1,18 @@
+LOG_FILE
+[2024-05-02 09:56:37,140] github-runner-01/INFO/locust.main: Run time limit set to 30 seconds
+[2024-05-02 09:56:37,140] github-runner-01/INFO/locust.main: Starting Locust 2.24.1
+[2024-05-02 09:56:37,142] github-runner-01/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2024-05-02 09:56:37,143] github-runner-01/INFO/locust.runners: All users spawned: {"LocustFile": 1} (1 total users)
+[2024-05-02 09:56:37,523] github-runner-01/INFO/root: /v3/login 	| <Response [200]>
+[2024-05-02 09:56:37,574] github-runner-01/INFO/root: /v3/mission/polling/first-action 	| <Response [200]>
+[2024-05-02 09:56:42,082] github-runner-01/INFO/root: /v3/mission/polling/first-action 	| <Response [200]>
+[2024-05-02 09:56:42,578] github-runner-01/INFO/root: /v3/mission/polling/first-action 	| <Response [200]>
+[2024-05-02 09:56:47,034] github-runner-01/INFO/root: /v3/mission/polling/first-action 	| <Response [200]>
+[2024-05-02 09:56:50,459] github-runner-01/INFO/root: /v3/mission/polling/first-action 	| <Response [200]>
+[2024-05-02 09:56:55,494] github-runner-01/INFO/root: /v3/mission/polling/first-action 	| <Response [200]>
+[2024-05-02 09:56:59,656] github-runner-01/INFO/root: /v3/mission/polling/first-action 	| <Response [200]>
+[2024-05-02 09:57:03,056] github-runner-01/INFO/root: /v3/mission/polling/first-action 	| <Response [200]>
+[2024-05-02 09:57:03,357] github-runner-01/INFO/root: /v3/mission/polling/first-action 	| <Response [200]>
+[2024-05-02 09:57:06,943] github-runner-01/INFO/locust.main: --run-time limit reached, shutting down
+[2024-05-02 09:57:07,009] github-runner-01/INFO/locust.main: writing html report to file: reports/report.html
+[2024-05-02 09:57:07,015] github-runner-01/INFO/locust.main: Shutting down (exit code 0)

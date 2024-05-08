@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+POST,/v3/login,HTTPError('422 Client Error: Unprocessable Entity for url: /v3/login'),75
+POST,/v3/2fa/auth,HTTPError('422 Client Error: Unprocessable Entity for url: /v3/2fa/auth'),74

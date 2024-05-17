@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+PATCH,/v3/fiat/payment/status/1dd42dac324312b9b3b8e7135afd5ae7,HTTPError('400 Client Error: Bad Request for url: /v3/fiat/payment/status/1dd42dac324312b9b3b8e7135afd5ae7'),323
